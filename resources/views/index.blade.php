@@ -331,7 +331,7 @@
                 </div>
 
                 <div class="form-group">
-                  <label for="name">Your Email</label>
+                  <label for="name">Email</label>
                   <input type="email" class="form-control" name="email" required />
             
                 </div>
