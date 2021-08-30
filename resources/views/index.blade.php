@@ -57,7 +57,7 @@
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
-          <li><a href="{{ route('login') }}">Login</a></li>
+          <li><a href="{{ route('login') }}"> <i class="bx bx-log-in"></i> Login</a></li>
 
         </ul>
       </nav><!-- .nav-menu -->
