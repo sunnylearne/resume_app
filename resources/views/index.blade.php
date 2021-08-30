@@ -40,7 +40,7 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="{{ asset('assets/img/IMG_2766.jpg') }}" alt="Sunny" class="img-fluid rounded-circle">
+        <img src="{{ asset('assets/img/IMG_6680.JPG') }}" alt="Sunny" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="#">Sunny Lenz</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://twitter.com/sunnylearner" class="twitter"><i class="bx bxl-twitter"></i></a>
